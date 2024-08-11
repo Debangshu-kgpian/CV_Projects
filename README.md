@@ -1,2 +1,2 @@
-# SMS_Spam_Classifier
+# CV_Projects
 Machine Learning | NLP
